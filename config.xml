@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+
+
+<mode>recorder</mode>
+<!--videosettings-->
+
+<quality>90</quality>
+<!--audiosettings-->
+
+<micrate>11</micrate>
+
+<silencelevel>8</silencelevel>
+
+<!--loop back for camera and microphone-->
+
+<loopback>false</loopback>
+
+</config>
